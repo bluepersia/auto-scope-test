@@ -11,7 +11,7 @@
 .test-h1
 {
     --scope-hash: h1; /* Collision-prevention ID */
-    color:blue;
+    color:red;
 }
 
 
