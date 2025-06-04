@@ -1,0 +1,4 @@
+.other-h3 
+{
+    --scope-hash: h3; /* Collision-prevention ID */
+}
