@@ -2,4 +2,6 @@
 {
     --scope-hash: h1; /* Collision-prevention ID */
     color:black;
+    background-color: pink;
+
 }
